@@ -1,0 +1,38 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+    },
+    {
+      "name": "SFY",
+      "address": "0xefc5bAE08de485DA4D4425B2Ad4adf44FF2F3844",
+      "symbol": "SFY",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://tacofy-swap.web.app/images/5/tokens/0xefc5bAE08de485DA4D4425B2Ad4adf44FF2F3844.png"
+    },
+    {
+      "name": "SFYX",
+      "address": "0x4a364546B6765a3469ab131b96ddEbe4A2199082",
+      "symbol": "SFYX",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://tacofy-swap.web.app/images/5/tokens/0x4a364546B6765a3469ab131b96ddEbe4A2199082.png"
+    }
+  ]
+}
